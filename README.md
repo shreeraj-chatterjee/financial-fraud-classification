@@ -138,6 +138,7 @@ This file contains the **trained PyTorch model weights**, allowing the model to 
 
 Potential improvements to this project include:
 
+* implementing **Dropout layers** to reduce mild overfitting and improve model generalization
 * experimenting with **Graph Attention Networks (GAT)**
 * exploring **GraphSAGE architectures**
 * testing different **graph construction strategies**
