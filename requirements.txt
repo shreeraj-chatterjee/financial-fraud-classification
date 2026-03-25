@@ -1,0 +1,17 @@
+# Deep Learning & Graphs
+torch
+torch-geometric
+
+# Vector Search / Graph Construction
+faiss-cpu
+
+# Data Processing & Machine Learning
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Jupyter Environment (Optional, for local execution)
+jupyter
