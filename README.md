@@ -55,5 +55,5 @@ This project was built iteratively, starting from a basic baseline and evolving 
 - [x] Implement Focal Loss and FAISS to handle extreme dataset imbalance and scale graph construction without data leakage.
 - [x] Explore **GraphSAGE** architectures for inductive learning (classifying entirely new, unseen transactions).
 - [x] Test alternative graph construction strategies (e.g., radius/epsilon-neighborhoods instead of strictly KNN).
-- [ ] Perform exhaustive **Hyperparameter Optimization** (using Optuna to tune hidden dimensions, dropout rates, and Focal Loss alpha/gamma parameters to maximize F1 on the Radius Search model).
+- [x] Perform exhaustive **Hyperparameter Optimization** (using Optuna to tune hidden dimensions, dropout rates, and Focal Loss alpha/gamma parameters to maximize F1 on the Radius Search model).
 - [ ] Integrate tabular and graph-based predictions using an ensemble approach.
