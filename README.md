@@ -56,4 +56,4 @@ This project was built iteratively, starting from a basic baseline and evolving 
 - [x] Explore **GraphSAGE** architectures for inductive learning (classifying entirely new, unseen transactions).
 - [x] Test alternative graph construction strategies (e.g., radius/epsilon-neighborhoods instead of strictly KNN).
 - [x] Perform exhaustive **Hyperparameter Optimization** (using Optuna to tune hidden dimensions, dropout rates, and Focal Loss alpha/gamma parameters to maximize F1 on the Radius Search model).
-- [ ] Integrate tabular and graph-based predictions using an ensemble approach.
+- [x] Integrate tabular and graph-based predictions using an ensemble approach.
